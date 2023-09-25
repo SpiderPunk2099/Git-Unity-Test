@@ -1,0 +1,14 @@
+*.booproj
+*.sln
+*.csproj
+*.unityproj
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.pidb.meta
+*.sln
+*.sln.meta
+*.vssscc
+*.csproj.vspscc
